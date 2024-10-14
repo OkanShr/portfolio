@@ -3,7 +3,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { CONTACT } from "../constants";
 
-const navbar = () => {
+const Navbar = () => {
   return (
     <nav className="mb-20 flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
@@ -21,4 +21,4 @@ const navbar = () => {
   );
 };
 
-export default navbar;
+export default Navbar;
