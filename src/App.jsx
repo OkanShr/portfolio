@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./components/navbar";
 import Hero from "./components/Hero";
 import TechStack from "./components/TechStack";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Education from "./components/Education";
 import Projects from "./components/Projects";
+import Navbar from "./components/navbar";
 
 const App = () => {
   return (
