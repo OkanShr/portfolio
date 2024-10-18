@@ -6,12 +6,12 @@ import Logo from "../assets/OkanLogobigger.png";
 
 const Navbar = () => {
   return (
-    <nav className="mb-20 flex items-center justify-between py-6">
+    <nav className="sticky top-0 mb-20 flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
         <img src={Logo} alt="OkanShr" width={40} />
         <h1 className="text-2xl">Shr</h1>
       </div>
-      <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+      <div className="m-8 flex items-center justify-center gap-4 text-3xl">
         <a href={CONTACT.gitHub} target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
