@@ -46,7 +46,7 @@ export const PROJECTS = [
       "HTML",
       "CSS",
     ],
-    link: "https://github.com/OkanShr/clientmanagement",
+    link: "https://github.com/OkanShr/ServeMyself_BE",
   },
   {
     title: "Client Management Website",
@@ -61,7 +61,7 @@ export const PROJECTS = [
       "HTML",
       "TailwindCSS",
     ],
-    link: "https://github.com/OkanShr/ServeMyself_BE",
+    link: "https://github.com/OkanShr/clientmanagement",
   },
   {
     title: "Image Sharing Platform",
