@@ -46,6 +46,7 @@ export const PROJECTS = [
       "HTML",
       "CSS",
     ],
+    link: "https://github.com/OkanShr/clientmanagement",
   },
   {
     title: "Client Management Website",
@@ -60,6 +61,7 @@ export const PROJECTS = [
       "HTML",
       "TailwindCSS",
     ],
+    link: "https://github.com/OkanShr/ServeMyself_BE",
   },
   {
     title: "Image Sharing Platform",
@@ -74,6 +76,7 @@ export const PROJECTS = [
       "HTML",
       "MongoDB",
     ],
+    link: "https://github.com/OkanShr/mernsm",
   },
   {
     title: "Portfolio Website",
@@ -81,6 +84,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "Tailwind CSS", "React.js"],
+    link: "",
   },
 ];
 
